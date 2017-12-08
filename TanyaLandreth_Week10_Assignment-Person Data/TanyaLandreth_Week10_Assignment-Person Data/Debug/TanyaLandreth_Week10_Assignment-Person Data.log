@@ -1,5 +1,0 @@
-﻿  TanyaLandreth_Week10_Assignment-Person Data.cpp
-c:\users\bobo\desktop\tanyalandreth_week10_assignment-person data\tanyalandreth_week10_assignment-person data\preferredcustomer_c.h(14): warning C4584: 'PreferredCustomer_C': base-class 'PersonData_C' is already a base-class of 'CustomerData_C'
-  c:\users\bobo\desktop\tanyalandreth_week10_assignment-person data\tanyalandreth_week10_assignment-person data\persondata_c.h(13): note: see declaration of 'PersonData_C'
-  c:\users\bobo\desktop\tanyalandreth_week10_assignment-person data\tanyalandreth_week10_assignment-person data\customerdata_c.h(13): note: see declaration of 'CustomerData_C'
-  TanyaLandreth_Week10_Assignment-Person Data.vcxproj -> C:\Users\bobo\Desktop\TanyaLandreth_Week10_Assignment-Person Data\Debug\TanyaLandreth_Week10_Assignment-Person Data.exe
