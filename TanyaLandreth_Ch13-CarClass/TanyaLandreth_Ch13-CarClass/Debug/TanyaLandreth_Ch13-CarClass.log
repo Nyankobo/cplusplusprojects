@@ -1,0 +1,16 @@
+﻿  ACarClass.cpp
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(10): error C3646: 'make': unknown override specifier
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(14): error C2061: syntax error: identifier 'string'
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(20): error C3646: 'getMake': unknown override specifier
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(20): error C2059: syntax error: '('
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(20): error C2238: unexpected token(s) preceding ';'
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(23): error C2061: syntax error: identifier 'getSpeed'
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\acarclass.cpp(10): error C2511: 'CarClass::CarClass(int,std::string)': overloaded member function not found in 'CarClass'
+  c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(6): note: see declaration of 'CarClass'
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\acarclass.cpp(12): error C2597: illegal reference to non-static member 'CarClass::yearModel'
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\acarclass.cpp(13): error C2065: 'make': undeclared identifier
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\acarclass.cpp(14): error C2597: illegal reference to non-static member 'CarClass::speed'
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\acarclass.cpp(24): error C2039: 'getMake': is not a member of 'CarClass'
+  c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\carclass.h(6): note: see declaration of 'CarClass'
+c:\users\bobo\desktop\tanyalandreth_ch13-carclass\tanyalandreth_ch13-carclass\acarclass.cpp(26): error C2065: 'make': undeclared identifier
